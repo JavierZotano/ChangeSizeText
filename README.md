@@ -19,3 +19,5 @@ tenga efecto. En este caso, la función de la clase era crear un `User` en el mo
 lance la aplicación, es decir, en su `onCreate()`.
 
 Imagen de la Activity inicial de la aplicación:
+
+<img src="img/ChangeSizeTextActivity.png" width="400"/>
